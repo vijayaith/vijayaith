@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vijayaith
 - 👀 I’m interested in developing web and software
-- 🌱 I’m currently learning cpp
 - 📫 you can reach me through my email id vijaybaghelvns@gmail.com
 
 
